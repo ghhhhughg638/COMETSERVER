@@ -1,0 +1,7 @@
+{
+  "sample_interval_seconds": 10,
+  "retention_days": 30,
+  "login_flag_per_hour": 20,
+  "login_flag_ips_per_day": 5,
+  "trusted_proxy_cidrs": []
+}

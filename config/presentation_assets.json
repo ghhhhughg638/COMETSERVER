@@ -1,0 +1,286 @@
+{
+  "images": {
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/cn_oceania_storm_premium_carausel_chinese.png": {
+      "image": "/admin/assets/presentation/92c83c2f736709f48ddc7c21.png",
+      "title": "cn_oceania_storm_premium_carausel_chinese",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/en_oceania_storm_premium_carausel.png": {
+      "image": "/admin/assets/presentation/0a3b46e0d9cbe9082f27009e.png",
+      "title": "en_oceania_storm_premium_carausel",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/March2026/eng.bp29.popup.jpg": {
+      "image": "/admin/assets/presentation/739f6c208f893758b7206ffb.jpg",
+      "title": "eng.bp29.popup",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/September2026/ch_ringoffire_carousel.png": {
+      "image": "/admin/assets/presentation/4ce24ab269c752607f7691a3.png",
+      "title": "ch_ringoffire_carousel",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/September2026/eng_ringoffire_carousel.png": {
+      "image": "/admin/assets/presentation/d87a7e6fa910258da42893bb.png",
+      "title": "eng_ringoffire_carousel",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/december2025/holiday_homefront_officer_2026_carousel.png": {
+      "image": "/admin/assets/presentation/0e6b70e7d95eb4de7dbb3fe2.png",
+      "title": "holiday_homefront_officer_2026_carousel",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/february2026/box_bilibili_lunar_ny_2026.jpg": {
+      "image": "/admin/assets/presentation/e80d9870889be1bbe76ed92b.jpg",
+      "title": "box_bilibili_lunar_ny_2026",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/frontpage/february2026/box_draft_lunar_ny_2026.jpg": {
+      "image": "/admin/assets/presentation/d781473c3caa8031e2906177.jpg",
+      "title": "box_draft_lunar_ny_2026",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/KARDS-Carousel-First_Time_Diamonds_Bundle-Offer-2025.png": {
+      "image": "/admin/assets/presentation/e30e05b18a6067074ce1f766.png",
+      "title": "KARDS-Carousel-First_Time_Diamonds_Bundle-Offer-2025",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-1/BiliBili.png": {
+      "image": "/admin/assets/presentation/517cf6df905ad74c726ca76b.png",
+      "title": "BiliBili",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-1/box_discord_edge.jpg": {
+      "image": "/admin/assets/presentation/227106a1594d80ed564f128e.jpg",
+      "title": "box_discord_edge",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-1/box_discord_icon_background.png": {
+      "image": "/admin/assets/presentation/007fe8649ba8d6492c57b9d4.png",
+      "title": "box_discord_icon_background",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_draft_edge_unclesam.jpg": {
+      "image": "/admin/assets/presentation/92fde738db0ce34d940f18c7.jpg",
+      "title": "box_draft_edge_unclesam",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_draft_icon.png": {
+      "image": "/admin/assets/presentation/2db8fb8eec4930b85855093d.png",
+      "title": "box_draft_icon",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-3/box_packs_edge.jpg": {
+      "image": "/admin/assets/presentation/66b075d6be2bfc63198cc109.jpg",
+      "title": "box_packs_edge",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-3/box_packs_icon.png": {
+      "image": "/admin/assets/presentation/3b536a49165a4a94a9a1c477.png",
+      "title": "box_packs_icon",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/other-prefix/qazb-mtzt03zp.png": {
+      "image": "/admin/assets/presentation/ebf4f635a17d10d6eb46ba68.png",
+      "title": "qazb-mtzt03zp",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/5y_tournament_image.jpg": {
+      "image": "/admin/assets/presentation/10327fd5a9fb92ad27549e31.jpg",
+      "title": "5y_tournament_image",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/christmas_tournament.jpg": {
+      "image": "/admin/assets/presentation/e5d07a8283fd163523943ffa.jpg",
+      "title": "christmas_tournament",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/duel_square_lowres.jpg": {
+      "image": "/admin/assets/presentation/818f3877fbc4c33a8356152c.jpg",
+      "title": "duel_square_lowres",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/t_blitz_tournament_background_512x512.jpg": {
+      "image": "/admin/assets/presentation/bfc509c98502cdba12e3502c.jpg",
+      "title": "t_blitz_tournament_background_512x512",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/t_bootcamp.jpg": {
+      "image": "/admin/assets/presentation/6c83f0ec93429f65506ddf8f.jpg",
+      "title": "t_bootcamp",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/t_death_from_above_3_480.jpg": {
+      "image": "/admin/assets/presentation/cac095df9bcba23493126cd2.jpg",
+      "title": "t_death_from_above_3_480",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/t_invent_copy.jpg": {
+      "image": "/admin/assets/presentation/4a8719d35b50867824aeb09a.jpg",
+      "title": "t_invent_copy",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/t_iron.jpg": {
+      "image": "/admin/assets/presentation/1048d1b9ffd945155476713f.jpg",
+      "title": "t_iron",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_skirmish_back.jpg": {
+      "image": "/admin/assets/presentation/5a861164469bedbb09fe9dc5.jpg",
+      "title": "box_skirmish_back",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_skirmish_icon.png": {
+      "image": "/admin/assets/presentation/381eb7357806d6ce543df241.png",
+      "title": "box_skirmish_icon",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/eng_eqbundleearlywar_carousel.png": {
+      "image": "/admin/assets/presentation/b3d584452e41328cdac8071f.png",
+      "title": "eng_eqbundleearlywar_carousel",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/eng_eqbundleearlywar_popup.jpg": {
+      "image": "/admin/assets/presentation/d7eedb9fe288e64e27ddc676.jpg",
+      "title": "eng_eqbundleearlywar_popup",
+      "source": "用户离线镜像"
+    },
+    "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_welcome_offer/welcome_offer_product_thumbnail.jpg": {
+      "image": "/admin/assets/presentation/38c541a687a96191e8fe924b.jpg",
+      "title": "welcome_offer_product_thumbnail",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/1_core_pack_v2_popup_black.jpg": {
+      "image": "/admin/assets/presentation/fa8fea6b805f9e17ce283a18.jpg",
+      "title": "1_core_pack_v2_popup_black",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/2025_Blitz+offer_Pop+Up_Easters_lowres.jpg": {
+      "image": "/admin/assets/presentation/91fca32256b6b54b35cc3941.jpg",
+      "title": "2025_Blitz+offer_Pop+Up_Easters_lowres",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/KARDS-PopUp-Naval_Warfare_Presale-2025.jpg": {
+      "image": "/admin/assets/presentation/4b4d5dea053ab0a4eb6dffa6.jpg",
+      "title": "KARDS-PopUp-Naval_Warfare_Presale-2025",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/commando_pack_popup-1540x770.jpg": {
+      "image": "/admin/assets/presentation/b2b825a4b90e5423bafe59b5.jpg",
+      "title": "commando_pack_popup-1540x770",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/pop_up_less_shade.png": {
+      "image": "/admin/assets/presentation/f524b1d90379043c1dc53a29.png",
+      "title": "pop_up_less_shade",
+      "source": "用户离线镜像"
+    },
+    "https://helsinki-test.s3.eu-west-1.amazonaws.com/red_blitz.jpg": {
+      "image": "/admin/assets/presentation/8bf601a64f3fac1d4473aed2.jpg",
+      "title": "red_blitz",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_de.jpg": {
+      "image": "/admin/assets/presentation/40685604dcb1f49a5f6b50eb.jpg",
+      "title": "es_de",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_en.jpg": {
+      "image": "/admin/assets/presentation/9f109c57eb2c409e2d305117.jpg",
+      "title": "es_en",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_es.jpg": {
+      "image": "/admin/assets/presentation/c622b62bc6cdda67a218b645.jpg",
+      "title": "es_es",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_fr.jpg": {
+      "image": "/admin/assets/presentation/60acc3a634f402377c5f4513.jpg",
+      "title": "es_fr",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_it.jpg": {
+      "image": "/admin/assets/presentation/cb015c3563abf05ca406b575.jpg",
+      "title": "es_it",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_kr.jpg": {
+      "image": "/admin/assets/presentation/33717f7cbdc381672a9fcb8f.jpg",
+      "title": "es_kr",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pl.jpg": {
+      "image": "/admin/assets/presentation/469ddf2622033c1fa73e7704.jpg",
+      "title": "es_pl",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pt.jpg": {
+      "image": "/admin/assets/presentation/bc57aeae63bf91ed9f19dac9.jpg",
+      "title": "es_pt",
+      "source": "用户离线镜像"
+    },
+    "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_ru.jpg": {
+      "image": "/admin/assets/presentation/c993560e0daaa3c3a9c2dd1e.jpg",
+      "title": "es_ru",
+      "source": "用户离线镜像"
+    },
+    "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_sch.jpg": {
+      "image": "/admin/assets/presentation/c0f13770fd334c8a29a78112.jpg",
+      "title": "es_sch",
+      "source": "用户离线镜像"
+    },
+    "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_tch.jpg": {
+      "image": "/admin/assets/presentation/1a98cd832de5e882735ba448.jpg",
+      "title": "es_tch",
+      "source": "用户离线镜像"
+    },
+    "https://www.brickizimo-toys.com/14512-large_default/ww2-danish-soldier-minifigure.jpg": {
+      "image": "/admin/assets/presentation/2505487f8cbb0e9b6489ee23.jpg",
+      "title": "ww2-danish-soldier-minifigure",
+      "source": "用户离线镜像"
+    },
+    "local://user-supplied/image1.jpg": {
+      "image": "/admin/assets/presentation/c5726ec18a3f242d1976335e.jpg",
+      "title": "用户素材 · image1.jpg",
+      "source": "用户提供，选用后才更改展示链接"
+    },
+    "local://user-supplied/image2.jpg": {
+      "image": "/admin/assets/presentation/8fcdfd12f50a3c7fe112c9fa.jpg",
+      "title": "用户素材 · image2.jpg",
+      "source": "用户提供，选用后才更改展示链接"
+    },
+    "local://user-supplied/image3.jpg": {
+      "image": "/admin/assets/presentation/c1549897f0146b127a586a7d.jpg",
+      "title": "用户素材 · image3.jpg",
+      "source": "用户提供，选用后才更改展示链接"
+    },
+    "local://user-supplied/image11.jpg": {
+      "image": "/admin/assets/presentation/225983b5a22b64e3c431559f.jpg",
+      "title": "用户素材 · image11.jpg",
+      "source": "用户提供，选用后才更改展示链接"
+    }
+  },
+  "icons": {
+    "gold": {
+      "image": "/admin/assets/presentation/818cefb7800f6add8466cb3c.png",
+      "title": "gold"
+    },
+    "diamonds": {
+      "image": "/admin/assets/presentation/0a1bd3a89777e4f7668d640d.png",
+      "title": "diamonds"
+    },
+    "pack": {
+      "image": "/admin/assets/presentation/018d6d244aa361a904a31bd5.png",
+      "title": "pack"
+    },
+    "draft": {
+      "image": "/admin/assets/presentation/8049b3c65e7e1cc40382754e.png",
+      "title": "draft"
+    },
+    "resources": {
+      "image": "/admin/assets/presentation/4b4e6a3995326df5cc39330e.png",
+      "title": "resources"
+    }
+  }
+}

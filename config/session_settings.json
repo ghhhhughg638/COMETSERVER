@@ -1,0 +1,34 @@
+{
+  "client_config": {
+    "xserver_closed": "The servers will be up again at 10:00 UTC.\n\n服务器维护\n世界标准时间10:00(UTC)上线",
+    "xserver_closed_header": "Server maintenance",
+    "forgot_password_url": "https://www.kards.com/auth/recovery?lang={lang}"
+  },
+  "root": {
+    "build_info": {
+      "build_timestamp": "2025-10-13T17:31:40Z",
+      "commit_hash": "dfaf581c"
+    },
+    "host_info": {
+      "container_name": "kards-backend-LIVE",
+      "docker_image": "618005890699.dkr.ecr.eu-west-1.amazonaws.com/kards-backend:live",
+      "host_name": "cometkards",
+      "instance_id": "i-03598bff8bd68fdee"
+    },
+    "service_name": "kards-backend",
+    "tenant_name": "1939-kardslive",
+    "tier_name": "LIVE",
+    "current_user": {
+      "iss": "cometkards",
+      "language": "zh-Hans",
+      "payment": "notavailable",
+      "provider": "device",
+      "tier": "LIVE"
+    }
+  },
+  "account_link": {
+    "max_attempts": 5,
+    "lock_seconds": 120,
+    "locked_message": "账号密码错误次数超过{max_attempts}次，距离下次剩余{seconds}秒"
+  }
+}

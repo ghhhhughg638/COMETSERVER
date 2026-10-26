@@ -1,0 +1,1561 @@
+{
+  "alwaysFeatured": {
+    "endDate": "2099-01-01T00:00:00Z",
+    "group": 1,
+    "groupId": -1,
+    "offers": [
+      {
+        "description": "反作弊对抗Superman",
+        "diamonds": 520,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Homefront",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 30
+          }
+        ],
+        "limit": 100,
+        "mainImage": "https://comet.gonm2.cn/static/fp/image9.jpg",
+        "offerId": 6809547,
+        "offerName": "offer_30_officer_packs_-_homefront",
+        "priority": 7,
+        "thumbnail": "https://comet.gonm2.cn/static/fp/image9.jpg",
+        "title": "Superman已死亡！"
+      },
+      {
+        "description": "关注永雏塔菲 ！！",
+        "diamonds": 1,
+        "items": [
+          {
+            "data": {
+              "cardCount": 5,
+              "cardSet": "Homefront",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          }
+        ],
+        "limit": 100,
+        "mainImage": "https://i0.hdslb.com/bfs/archive/b359a42bd86910d78bcd004ee5d6947b6f126561.jpg",
+        "offerId": 6809549,
+        "offerName": "offer_30_packs_-_homefront",
+        "priority": 8,
+        "thumbnail": "https://i0.hdslb.com/bfs/archive/b359a42bd86910d78bcd004ee5d6947b6f126561.jpg",
+        "title": "关注塔菲喵喵!"
+      },
+      {
+        "description": "发廊说他喜欢",
+        "diamonds": 520,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Core",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 30
+          }
+        ],
+        "limit": 0,
+        "mainImage": "https://i0.hdslb.com/bfs/archive/182e4be6fa4eff890c07532079b187cffe8dad84.png",
+        "offerId": 6777130,
+        "offerName": "offer_30_core_officer_packs_backup_offer",
+        "priority": 9,
+        "thumbnail": "https://i0.hdslb.com/bfs/archive/182e4be6fa4eff890c07532079b187cffe8dad84.png",
+        "title": "这也算是福瑞"
+      }
+    ],
+    "startDate": "2018-01-01T00:00:00Z"
+  },
+  "currency": "USD",
+  "groups": [
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 27,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 10
+            }
+          ],
+          "description": "钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 48
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_s/diamond_bundle1_parcel_productimage02.jpg",
+          "offerId": 16566,
+          "offerName": "diamonds_s",
+          "real": 4.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle1_parcel_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_s/diamond_bundle1_parcel_thumb02.jpg",
+          "title": "48钻石"
+        }
+      ],
+      "startDate": "2023-04-19T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 73,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张核心卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。",
+          "diamonds": 14,
+          "gold": 100,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_1_core_pack/core_packs_1_lowres2.jpg",
+          "offerId": 16569,
+          "offerName": "offer_1_core_pack",
+          "slotType": "most_popular",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_1_core_pack/core_packs_1.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_1_core_pack/core_packs_officer_20_lowres2.jpg",
+          "title": "ZVV招租中"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 74,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 30
+            }
+          ],
+          "description": "一盒钻石内含100颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 100
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_m/diamond_bundle2_matchbox_productimage02.jpg",
+          "offerId": 16928,
+          "offerName": "diamonds_m",
+          "real": 9.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle2_matchbox_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_m/diamond_bundle2_matchbox_thumb02.jpg",
+          "title": "100钻石"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 75,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 75
+            }
+          ],
+          "description": "一包钻石内含210颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 210
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_l/diamond_bundle3_leatherbag_productimage02.jpg",
+          "offerId": 16929,
+          "offerName": "diamonds_l",
+          "real": 19.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle3_leatherBag_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_l/diamond_bundle3_leatherbag_thumb02.jpg",
+          "title": "210钻石"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 76,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 155
+            }
+          ],
+          "description": "一杯钻石具有优惠，内含380颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 380
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xl/diamond_bundle4_cup_productimage02.jpg",
+          "offerId": 16930,
+          "offerName": "diamonds_xl",
+          "real": 34.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle4_Cup_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xl/diamond_bundle4_cup_thumb02.jpg",
+          "title": "380钻石"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 77,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 260
+            }
+          ],
+          "description": "一帽钻石非常合算，内含570颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 570
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xxl/diamond_bundle5_helmet_productimage02.jpg",
+          "offerId": 16931,
+          "offerName": "diamonds_xxl",
+          "real": 49.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle5_helmet_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xxl/diamond_bundle5_helmet_thumb02.jpg",
+          "title": "570钻石"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 5,
+      "groupId": 78,
+      "offers": [
+        {
+          "bonusItems": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 600
+            }
+          ],
+          "description": "一箱钻石具有大幅优惠，内含1200颗钻石。钻石可以用于在商店中购买卡包、捆绑包特惠和装备。",
+          "items": [
+            {
+              "data": {
+                "itemType": "diamonds"
+              },
+              "qty": 999999
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xxxl/diamond_bundle6_chest_productimage02.jpg",
+          "offerId": 16932,
+          "offerName": "diamonds_xxxl",
+          "real": 99.99,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/ShopAssetsPlusThumbs/Diamond_offers_10_03_2022/diamond_bundle6_chest_thumb.png",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/diamonds_xxxl/diamond_bundle6_chest_thumb02.jpg",
+          "title": "背负上七星的爱继续前进！"
+        }
+      ],
+      "startDate": "2023-05-06T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 80,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张核心卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。",
+          "diamonds": 98,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs/core_packs_7_lowres2.jpg",
+          "offerId": 16962,
+          "offerName": "packs_7_packs",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs/core_packs_7.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs/core_packs_7_lowres2.jpg",
+          "title": "7个卡包 - 核心套装"
+        }
+      ],
+      "startDate": "2023-05-08T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 86,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张核心卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 可能掉落万能牌和闪卡\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。军官卡包内含更多卡牌和更高稀有度的卡牌。",
+          "diamonds": 43,
+          "gold": 330,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___core/core_packs_officer_1_lowres2.jpg",
+          "offerId": 16974,
+          "offerName": "packs_1_officer_pack_-_core",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack_-_core/core_packs_officer_1.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___core/core_packs_officer_1_lowres2.jpg",
+          "title": "1个军官卡包 - 核心套装"
+        }
+      ],
+      "startDate": "2023-05-09T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 90,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张核心卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 可能掉落万能牌和闪卡\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。军官卡包内含更多卡牌和更高稀有度的卡牌。",
+          "diamonds": 850,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 20
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___core/core_packs_officer_20_full_image_lowres.jpg",
+          "offerId": 16975,
+          "offerName": "packs_20_officer_packs_-_core",
+          "priority": 1002,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs_-_core/core_packs_officer_20_v2.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___core/core_packs_officer_20_lowres2.jpg",
+          "title": "20个军官卡包 - 核心套装"
+        }
+      ],
+      "startDate": "2023-05-09T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 91,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张核心卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 可能掉落万能牌和闪卡\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。军官卡包内含更多卡牌和更高稀有度的卡牌。",
+          "diamonds": 300,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___core/core_packs_officer_7_lowres2.jpg",
+          "offerId": 16973,
+          "offerName": "packs_7_officer_packs_-_core",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs_-_core/core_packs_officer_7.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___core/core_packs_officer_7_lowres2.jpg",
+          "title": "7个军官卡包 - 核心套装"
+        }
+      ],
+      "startDate": "2023-05-09T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 92,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张核心卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n核心卡包包含您起步所需的全部卡牌。核心卡池收录了所有主国（德国、英国、苏联、美国和日本）以及所有盟国（法国、意大利、波兰和芬兰）的卡牌。",
+          "diamonds": 280,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 20
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___core/core_packs_20_lowres2.jpg",
+          "offerId": 16971,
+          "offerName": "packs_20_packs_-_core",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs_-_core/core_packs_20.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___core/core_packs_20_lowres2.jpg",
+          "title": "20个卡包 - 核心套装"
+        }
+      ],
+      "startDate": "2023-05-09T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 11,
+      "groupId": 1198,
+      "hidden": true,
+      "offers": [
+        {
+          "description": "战区引入了五个单人 PVE 战役，在不同的历史场景中进行，你将在危机四伏的环境中接受特殊的任务目标，不断挑战技能和决心。战区包括以下 5 个历史战役：莫斯科保卫战（苏联）、第二次阿拉曼战役（德国）、菲律宾战役（日本）、瓜达尔卡纳尔岛战役（美国）和突尼斯战役（英国）。\n\n完成战役以获得战区国家卡背，每个国家一张。在战役中获得满星，可为每个国家解锁一个特殊表情。",
+          "diamonds": 148,
+          "items": [
+            {
+              "data": {
+                "itemType": "campaign",
+                "name": "campaign_britain1"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "campaign",
+                "name": "campaign_germany1"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "campaign",
+                "name": "campaign_soviet1"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "campaign",
+                "name": "campaign_japan1"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "campaign",
+                "name": "campaign_us1"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/campaigns_theaters_of_war/store-tow_campaign_thumbcn.jpg",
+          "offerId": 6757643,
+          "offerName": "campaigns_theaters_of_war",
+          "priority": 50,
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/campaigns_theaters_of_war/store-tow_campaign_thumbcn.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/campaigns_theaters_of_war/store-tow_campaign_thumbcn.jpg",
+          "title": "战区"
+        }
+      ],
+      "startDate": "2024-08-28T10:54:00Z"
+    },
+    {
+      "endDate": "2030-03-12T11:00:00Z",
+      "group": 1,
+      "groupId": 1796,
+      "offers": [],
+      "startDate": "2025-03-12T11:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 7,
+      "groupId": 1814,
+      "offers": [
+        {
+          "description": "Battle Pass 3 Months",
+          "items": [
+            {
+              "data": {
+                "itemType": "token",
+                "name": "token_3_month_pass"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6789284,
+          "offerName": "multiple_battle_passes_-_3_months",
+          "real": 31.99,
+          "title": "Battle Pass 3 Months"
+        }
+      ],
+      "startDate": "2025-03-20T11:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 7,
+      "groupId": 1815,
+      "offers": [
+        {
+          "description": "Battle Pass 6 Months",
+          "items": [
+            {
+              "data": {
+                "itemType": "token",
+                "name": "token_6_month_pass"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6789285,
+          "offerName": "multiple_battle_passes_-_6_months",
+          "real": 59.99,
+          "title": "Battle Pass 6 Months"
+        }
+      ],
+      "startDate": "2025-03-20T11:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2815,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张澳新风暴套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n澳新风暴，KARDS 第 11 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 300,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "OceaniaStorm",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___homefront/homefront_officer7_zoomout.jpg",
+          "offerId": 6809542,
+          "offerName": "packs_7_officer_packs_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_officer_packs___homefront/homefront_officer7_zoomout.jpg",
+          "title": "7 个军官卡包 - 澳新风暴"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2814,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 43,
+          "gold": 330,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Homefront",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___homefront/homefront_officer1.jpg",
+          "offerId": 6809538,
+          "offerName": "packs_1_officer_pack_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_officer_pack___homefront/homefront_officer20cropped_frontpage.jpg",
+          "title": "1 个军官卡包 - 国土阵线"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2813,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 280,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Homefront",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 20
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___homefront/homefront_20_zoomout.jpg",
+          "offerId": 6809536,
+          "offerName": "packs_20_packs_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_packs___homefront/homefront_20_zoomout.jpg",
+          "title": "20 个卡包 - 国土阵线"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2812,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 98,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Homefront",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs___homefront/homefront_7_zoomout.jpg",
+          "offerId": 6809532,
+          "offerName": "packs_7_packs_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_7_packs___homefront/homefront_7_zoomout.jpg",
+          "title": "7 个卡包 - 国土阵线"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2811,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 5 张国土阵线套装卡牌\n• 至少 1 张限定或更高稀有度卡牌\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 14,
+          "gold": 100,
+          "items": [
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Homefront",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_pack___homefront/homefront_1_zoomout.jpg",
+          "offerId": 6809527,
+          "offerName": "packs_1_pack_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_1_pack___homefront/homefront_officer20cropped_frontpage.jpg",
+          "title": "1 个卡包 - 国土阵线"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 4,
+      "groupId": 2816,
+      "offers": [
+        {
+          "description": "每个卡包内含：\n• 7 张国土阵线套装卡牌\n• 至少 2 张限定或更高稀有度卡牌\n• 至少 1 张特殊或精英卡牌\n• 有几率掉落万能牌和闪卡\n\n国土阵线，KARDS 第 10 个大型扩展包，引入了 87 张全新卡牌以及来自预备卡池的一系列回归卡牌。本次扩展包将焦点转向战争后方，通过全新卡牌主题突出国家凝聚力。国土阵线还推出了鼓励统一战力的全新“协力”机制，以及新增核心词条子集“对战词条”：伏击、闪击、奋战、守护、重甲、冲击和烟幕。新增内容相辅相成，开启全新战术可能，为 KARDS 战场开启强势新维度。",
+          "diamonds": 850,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Homefront",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 20
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___homefront/homefront_officer20cropped.jpg",
+          "offerId": 6809543,
+          "offerName": "packs_20_officer_packs_-_homefront",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/packs_20_officer_packs___homefront/homefront_officer20cropped.jpg",
+          "title": "20 个军官卡包 - 国土阵线"
+        }
+      ],
+      "startDate": "2025-11-27T09:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 6,
+      "groupId": 2050,
+      "offers": [
+        {
+          "description": "七星是萝莉吗》！",
+          "fulfilAfter": "2026-01-01T00:00:00Z",
+          "items": [
+            {
+              "data": {
+                "itemType": "bp",
+                "month": 1,
+                "year": 2026
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "prop",
+                "name": "item_Japanese_tea_set"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "cardback",
+                "name": "cardback_9th_airforce"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "emote",
+                "name": "emote_forward_comrades"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "itemType": "alt_art",
+                "name": "alt_1_card_unit_tiger_i"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://comet.gonm2.cn/static/fp/image4.jpg",
+          "offerId": 6794770,
+          "offerName": "battle_pass_01/26",
+          "real": 77.77,
+          "thumbnail": "https://comet.gonm2.cn/static/fp/image4.jpg",
+          "title": "见过七星吗？就说话！"
+        }
+      ],
+      "startDate": "2026-01-01T00:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 1,
+      "groupId": 3034,
+      "offers": [
+        {
+          "description": "利用此限时优惠，助您冲击前线。",
+          "diamonds": 245,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 2
+            },
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 15
+            },
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "limit": 2,
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_weekend_special___15_packs_1_officer_pack_2_1day_medkit/mobile_release_special.jpg",
+          "offerId": 6801827,
+          "offerName": "offer_weekend_special_-_15_packs+1_officer_pack+2_1day_medkit",
+          "priority": 4,
+          "slotType": "most_popular",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/offer_weekend_special___15_packs_1_officer_pack_2_1day_medkit/mobile_release_special.jpg",
+          "timed": true,
+          "title": "周末特惠"
+        }
+      ],
+      "startDate": "2026-01-02T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 3,
+      "groupId": 2985,
+      "offers": [
+        {
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_unit_20th_infantry_regiment"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6762884,
+          "offerName": "card_unit_20th_infantry_regiment"
+        },
+        {
+          "bonus": true,
+          "diamonds": 8,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_event_buzz_bomb"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6811306,
+          "offerName": "card_event_buzz_bomb"
+        },
+        {
+          "diamonds": 8,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_event_through_the_ice"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6762850,
+          "offerName": "card_event_through_the_ice"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 1,
+      "groupId": 3039,
+      "offers": [
+        {
+          "description": "有的有的，但是七星天天打游戏太懒了。七星8月20日开学！",
+          "diamonds": 91,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Germany",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "USA",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Britain",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 7
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Allies",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 4
+            },
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 3
+            }
+          ],
+          "limit": 2,
+          "mainImage": "https://comet.gonm2.cn/static/fp/image5.jpg",
+          "offerId": 6778815,
+          "offerName": "offer_battle_of_the_atlantic_-_big_bundle",
+          "priority": 1,
+          "slotType": "for_you",
+          "thumbnail": "https://comet.gonm2.cn/static/fp/image5.jpg",
+          "timed": true,
+          "title": "DIY太构思了，有没有新的！"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 1,
+      "groupId": 3037,
+      "offers": [
+        {
+          "description": "狠狠的帮助七星吧！",
+          "diamonds": 129,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Britain",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Germany",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "USA",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Allies",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            }
+          ],
+          "limit": 2,
+          "mainImage": "https://comet.gonm2.cn/static/fp/image8.jpg",
+          "offerId": 6802497,
+          "offerName": "offer_battle_of_the_atlantic_-_basic",
+          "priority": 3,
+          "thumbnail": "https://comet.gonm2.cn/static/fp/image8.jpg",
+          "timed": true,
+          "title": "七星一人维护整个彗星！已累死。"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 2,
+      "groupId": 2895,
+      "offers": [
+        {
+          "description": "异次元",
+          "diamonds": 200,
+          "items": [
+            {
+              "data": {
+                "itemType": "deck",
+                "name": "deck_japan_please_leave"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_please_leave/please_leave_store.jpg",
+          "offerId": 6810545,
+          "offerName": "deck_deck_japan_please_leave",
+          "slotType": "",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_japan_please_leave/please_leave_store.jpg",
+          "title": "异次元"
+        },
+        {
+          "description": "战争海军是战争期间的德国海军。此卡背可用于德国卡组。",
+          "diamonds": 30,
+          "items": [
+            {
+              "data": {
+                "itemType": "cardback",
+                "name": "cardback_kriegsmarine"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_kriegsmarine/cardback_mockup_kriegsmarine.jpg",
+          "offerId": 6757781,
+          "offerName": "cardback_cardback_kriegsmarine",
+          "slotType": "",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_kriegsmarine/cardback_mockup_kriegsmarine.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_kriegsmarine/cardback_mockup_kriegsmarine.jpg",
+          "title": "战争海军"
+        },
+        {
+          "description": "使用此表情个性化您的战场通信。该宣告表情可用于任何国家。有时，它被用于回答Marco？",
+          "diamonds": 20,
+          "items": [
+            {
+              "data": {
+                "itemType": "emote",
+                "name": "emote_polo"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6695684,
+          "offerName": "emote_emote_polo",
+          "slotType": "",
+          "title": "波罗！"
+        },
+        {
+          "description": "这是对现有卡牌的卡图更改，并非卡牌本身。仅会改变卡牌的视觉风格，其效果保持不变。",
+          "diamonds": 90,
+          "items": [
+            {
+              "data": {
+                "itemType": "alt_art",
+                "name": "alt_1_card_event_death_from_above"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6773073,
+          "offerName": "alt_art_alt_1_card_event_death_from_above",
+          "slotType": "",
+          "title": "死神降临"
+        },
+        {
+          "description": "使用这款精英头像定义您的领导力。",
+          "diamonds": 290,
+          "items": [
+            {
+              "data": {
+                "itemType": "avatar",
+                "name": "avatar_folgore"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_folgore/t_portrait_elite_folgore.jpg",
+          "offerId": 6790694,
+          "offerName": "avatar_avatar_folgore",
+          "slotType": "",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/avatar_avatar_folgore/t_portrait_elite_folgore.jpg",
+          "title": "雷电"
+        },
+        {
+          "description": "费塞二氏战斗刀，又名突击队匕首，是专为英国突击队使用而设计的。具有花瓶状的握把和窄长的刀峰，这把匕首专为突袭和近距离格斗而打造。这把匕首已经达到了传奇的地位，直到今天仍然可以使用。\n此装备适用于英国。",
+          "diamonds": 48,
+          "items": [
+            {
+              "data": {
+                "itemType": "prop",
+                "name": "item_Britain_CommandoKnife"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_Britain_CommandoKnife/board-items_britishcommandoknife_product-image.jpg",
+          "offerId": 16986,
+          "offerName": "prop_item_Britain_CommandoKnife",
+          "slotType": "",
+          "smallThumb": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_Britain_CommandoKnife/board-items_britishcommandoknife_thumbnail.jpg",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_Britain_CommandoKnife/board-items_britishcommandoknife_thumbnail.jpg",
+          "title": ">英国突击队匕首"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 1,
+      "groupId": 3038,
+      "offers": [
+        {
+          "description": "七星是好女孩吗？",
+          "diamonds": 777,
+          "items": [
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Germany",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 3
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Britain",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 3
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "USA",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 3
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Active",
+                "faction": "Allies",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "limit": 2,
+          "mainImage": "https://comet.gonm2.cn/static/fp/image6.jpg",
+          "offerId": 6778823,
+          "offerName": "offer_battle_of_the_atlantic_-_special",
+          "priority": 2,
+          "slotType": "limited_time",
+          "thumbnail": "https://comet.gonm2.cn/static/fp/image6.jpg",
+          "timed": true,
+          "title": "别 逗 你 七星 姐笑了！"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 1,
+      "groupId": 3036,
+      "offers": [
+        {
+          "description": "妈妈！妈妈！",
+          "diamonds": 269,
+          "items": [
+            {
+              "data": {
+                "duration": 3,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            },
+            {
+              "data": {
+                "cardCount": 5,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 2
+            },
+            {
+              "data": {
+                "cardCount": 7,
+                "cardSet": "Core",
+                "guaranteedGoldCards": 0,
+                "itemType": "pack"
+              },
+              "qty": 3
+            },
+            {
+              "data": {
+                "isGold": false,
+                "itemType": "card",
+                "name": "card_wildcard_standard"
+              },
+              "qty": 4
+            },
+            {
+              "data": {
+                "isGold": false,
+                "itemType": "card",
+                "name": "card_wildcard_special"
+              },
+              "qty": 2
+            },
+            {
+              "data": {
+                "isGold": false,
+                "itemType": "card",
+                "name": "card_wildcard_limited"
+              },
+              "qty": 3
+            }
+          ],
+          "limit": 1,
+          "mainImage": "https://comet.gonm2.cn/static/fp/image7.jpg",
+          "offerId": 6775106,
+          "offerName": "offer_weekend_special",
+          "priority": 2,
+          "slotType": "for_you",
+          "thumbnail": "https://comet.gonm2.cn/static/fp/image7.jpg",
+          "timed": true,
+          "title": "叫妈妈，七星太伟大了！"
+        }
+      ],
+      "startDate": "2026-01-03T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 3,
+      "groupId": 2986,
+      "offers": [
+        {
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_unit_panzer_ii_c"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6810422,
+          "offerName": "card_unit_panzer_ii_c"
+        },
+        {
+          "bonus": true,
+          "diamonds": 8,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_unit_5th_bersaglieri"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6810425,
+          "offerName": "card_unit_5th_bersaglieri"
+        },
+        {
+          "diamonds": 100,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_event_desperate_measures"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6811307,
+          "offerName": "card_event_desperate_measures",
+          "slotType": "special"
+        }
+      ],
+      "startDate": "2026-01-04T11:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 2,
+      "groupId": 2896,
+      "offers": [
+        {
+          "description": "大内密探",
+          "diamonds": 350,
+          "items": [
+            {
+              "data": {
+                "itemType": "deck",
+                "name": "deck_britain_bond_british_bond"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_bond_british_bond/bond%2C_british_bond_store.jpg",
+          "offerId": 6810560,
+          "offerName": "deck_deck_britain_bond_british_bond",
+          "slotType": "",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/deck_deck_britain_bond_british_bond/bond%2C_british_bond_store.jpg",
+          "title": "大内密探"
+        },
+        {
+          "description": "使用此总部来个性化您的战场，该总部会更改战场桌布。进入椭圆形办公室，在坚毅桌上进行游戏。该总部可用于美国卡组。",
+          "diamonds": 100,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_location_washington_waw"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 17177,
+          "offerName": "hq_card_location_washington_waw",
+          "slotType": "",
+          "title": "华盛顿"
+        },
+        {
+          "description": "指虎，又称铜指虎，是二战时期用于近战的小型武器，旨在增强击拳的打击力。它易于隐藏，使用简单，适合狭小空间，因此受到部分士兵的青睐。这款桌饰可用于美国卡组。",
+          "diamonds": 100,
+          "items": [
+            {
+              "data": {
+                "itemType": "prop",
+                "name": "item_M1917_Knife"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_M1917_Knife/us-knuckle-duster.jpg",
+          "offerId": 6785175,
+          "offerName": "prop_item_M1917_Knife",
+          "slotType": "",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/prop_item_M1917_Knife/us-knuckle-duster.jpg",
+          "title": "指虎刀"
+        },
+        {
+          "description": "卡背图案展示了二战日本帝国陆军大将的肩章。这款卡背可用于日本卡组。",
+          "diamonds": 70,
+          "items": [
+            {
+              "data": {
+                "itemType": "cardback",
+                "name": "cardback_ijp_general"
+              },
+              "qty": 1
+            }
+          ],
+          "mainImage": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_ijp_general/ijp_geneneral.jpg",
+          "offerId": 6773563,
+          "offerName": "cardback_cardback_ijp_general",
+          "slotType": "",
+          "thumbnail": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/cardback_cardback_ijp_general/ijp_geneneral.jpg",
+          "title": "帝国大将"
+        },
+        {
+          "description": "使用此表情个性化您的战场通信。该结束表情可用于美国卡组。",
+          "diamonds": 20,
+          "items": [
+            {
+              "data": {
+                "itemType": "emote",
+                "name": "emote_well_fought"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6758934,
+          "offerName": "emote_emote_well_fought",
+          "slotType": "",
+          "title": "打得好"
+        },
+        {
+          "description": "使用总部个性化您的战场，该总部会更改桌布。灵感来自阿拉库尔战役，美德两国的装甲部队于 1944 年在法国阿拉库尔镇附近交战。该总部可用于美国卡组。",
+          "diamonds": 200,
+          "items": [
+            {
+              "data": {
+                "itemType": "card",
+                "name": "card_location_arracourt"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6783056,
+          "offerName": "hq_card_location_arracourt",
+          "slotType": "",
+          "title": "阿拉库尔"
+        }
+      ],
+      "startDate": "2026-01-04T11:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 12,
+      "groupId": -1,
+      "hidden": true,
+      "offers": [
+        {
+          "diamonds": 20,
+          "gold": 150,
+          "items": [
+            {
+              "data": {
+                "itemType": "draft"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6740392,
+          "offerName": "draft_ticket"
+        },
+        {
+          "diamonds": 80,
+          "items": [
+            {
+              "data": {
+                "duration": 7,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6757794,
+          "offerName": "medkit_7d"
+        },
+        {
+          "diamonds": 40,
+          "items": [
+            {
+              "data": {
+                "duration": 3,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6757793,
+          "offerName": "medkit_3d"
+        },
+        {
+          "diamonds": 20,
+          "items": [
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6757792,
+          "offerName": "medkit_1d"
+        },
+        {
+          "diamonds": 20,
+          "items": [
+            {
+              "data": {
+                "duration": 1,
+                "itemType": "medkit"
+              },
+              "qty": 1
+            }
+          ],
+          "offerId": 6744365,
+          "offerName": "medkit"
+        }
+      ],
+      "startDate": "2018-01-01T00:00:00Z"
+    },
+    {
+      "endDate": "2099-01-01T00:00:00Z",
+      "group": 1,
+      "groupId": -1,
+      "offers": [],
+      "startDate": "2018-01-01T00:00:00Z"
+    },
+    {
+      "endDate": "2027-06-01T00:00:00Z",
+      "group": 0,
+      "groupId": 39217010,
+      "offers": [],
+      "startDate": "2026-01-04T16:55:02.089365Z"
+    }
+  ],
+  "message": "Offers for 2026-04-25T07:18:32.575",
+  "status": 200,
+  "ts": 1777101512.575
+}

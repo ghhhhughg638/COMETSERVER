@@ -1,0 +1,110 @@
+{
+  "card_back": {
+    "Germany": "cardback_starter_german",
+    "USA": "cardback_starter_usa",
+    "Japan": "cardback_starter_japan",
+    "Soviet": "cardback_starter_soviet",
+    "Britain": "cardback_starter_britain"
+  },
+  "faction_loc": {
+    "Germany": "card_location_berlin",
+    "Britain": "card_location_london",
+    "Soviet": "card_location_stalingrad",
+    "USA": "card_location_cherbourg",
+    "Japan": "card_location_changchun"
+  },
+  "m_factions": [
+    "Germany",
+    "USA",
+    "Japan",
+    "Soviet",
+    "Britain"
+  ],
+  "a_factions": [
+    "Poland",
+    "Finland",
+    "Anzac",
+    "Italy",
+    "France"
+  ],
+  "num_rarity": {
+    "Standard": 4,
+    "Limited": 3,
+    "Special": 2,
+    "Elite": 1
+  },
+  "rarity_weights": {
+    "Elite": 1,
+    "Special": 2,
+    "Limited": 47,
+    "Standard": 50
+  },
+  "rarity_num": {
+    "Elite": {
+      "1": 100
+    },
+    "Special": {
+      "1": 90,
+      "2": 10
+    },
+    "Limited": {
+      "1": 90,
+      "2": 5,
+      "3": 5
+    },
+    "Standard": {
+      "1": 85,
+      "2": 5,
+      "3": 5,
+      "4": 5
+    }
+  },
+  "m_a_faction": {
+    "m": 75,
+    "a": 25
+  },
+  "total_cards": 40,
+  "choice_count": 3,
+  "ally_selection_at": 4,
+  "late_weights_at": 36,
+  "late_rarity_weights": {
+    "Elite": 60,
+    "Special": 30,
+    "Limited": 5,
+    "Standard": 5
+  },
+  "ally_card_limit": 12,
+  "max_selection_attempts": 80,
+  "excluded_sets": [
+    "OnlySpawnable"
+  ],
+  "excluded_name_suffixes": [
+    "_vet"
+  ],
+  "ally_rarity_replacements": {
+    "Elite": "Special"
+  },
+  "entry_response": {
+    "admissions": 0,
+    "gold": 0
+  },
+  "completion_rewards": [
+    {
+      "data": {
+        "itemType": "gold"
+      },
+      "qty": 777
+    }
+  ],
+  "overview_cost": {
+    "base": 0,
+    "per_win": 1,
+    "per_loss": 1
+  },
+  "overview_reward": {
+    "gold_min": 0,
+    "random": 0,
+    "gold_max": 0,
+    "packs": 0
+  }
+}

@@ -1,0 +1,21 @@
+http_server:
+  host: 127.0.0.1
+  port: 5231
+  protocol: http
+  ws_protocol: ws
+  workers: 1
+  do_name: 127.0.0.1:5231
+game:
+  version:
+  - Comet 4.2.0
+database:
+  path: data/comet.db
+jwt:
+  key: CHANGE_ME_OR_LET_FIRST_START_GENERATE_A_RANDOM_KEY
+  algorithm: HS256
+debug:
+  threading: 16
+  status: false
+admin:
+  users: {}
+  broadcast_password: ""

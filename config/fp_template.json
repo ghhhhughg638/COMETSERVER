@@ -1,0 +1,208 @@
+{
+  "changed": true,
+  "elements": [
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 80,
+          "text": "打开"
+        },
+        "icon": {
+          "icon_url": "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-3/box_packs_icon.png"
+        },
+        "image_url": "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-3/box_packs_edge.jpg",
+        "link": "kards:openpacks",
+        "priority": 1,
+        "slot": 2,
+        "sub_heading": {
+          "font_size": 80,
+          "text": "卡包"
+        },
+        "type": 1
+      },
+      "elementId": 27,
+      "endDate": "9999-12-31T23:59:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "0001-01-01T00:00:00Z"
+    },
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": "乱斗"
+        },
+        "heading": {
+          "font_size": 80,
+          "text": "乱斗模式"
+        },
+        "icon": {
+          "icon_url": "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_skirmish_icon.png"
+        },
+        "image_url": "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-2/box_draft_edge_unclesam.jpg",
+        "link": "kards:skirmish",
+        "priority": 3,
+        "slot": 1,
+        "sub_heading": {
+          "font_size": 80
+        },
+        "type": 1
+      },
+      "elementId": 31,
+      "endDate": "2026-12-31T10:59:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2024-06-24T08:00:00Z"
+    },
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 64,
+          "text": "(谢谢大家帮助，服务器续费至少能开到新年后了)！\n七星感谢你们喵！"
+        },
+        "icon": {
+          "icon_url": ""
+        },
+        "image_url": "https://comet.tx-hk2.mcfuns.cn/image11.jpg",
+        "link": "https://comet.tx-hk2.mcfuns.cn/image11.jpg",
+        "priority": 1,
+        "sub_heading": {
+          "font_size": 40,
+          "text": "感谢，但是我更新太慢了啊，只能麻烦大家等了，我也不知道具体啥时候。"
+        },
+        "type": 0
+      },
+      "elementId": 3,
+      "endDate": "2027-01-31T15:00:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2023-11-06T11:00:00Z"
+    },
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 64,
+          "text": "CometServer"
+        },
+        "icon": {
+          "icon_url": ""
+        },
+        "image_url": "https://comet.tx-hk2.mcfuns.cn/image1.jpg",
+        "link": "https://pd.qq.com/s/7xhhlskg7?b=9",
+        "priority": 2,
+        "sub_heading": {
+          "font_size": 40,
+          "text": "加入Comet频道，分享DIY，查看更新！了解通知别错过！"
+        },
+        "type": 0
+      },
+      "elementId": 1,
+      "endDate": "2027-01-31T15:00:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2023-11-06T11:00:00Z"
+    },
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 64,
+          "text": "玩家自发组织的游戏群聊！"
+        },
+        "icon": {
+          "icon_url": ""
+        },
+        "image_url": "https://comet.tx-hk2.mcfuns.cn/image2.jpg",
+        "link": "https://comet.gonm2.cn/static/update.html",
+        "priority": 3,
+        "sub_heading": {
+          "font_size": 40,
+          "text": "击剑！吹水！讨论卡组欢迎加入！"
+        },
+        "type": 0
+      },
+      "elementId": 2,
+      "endDate": "2027-01-31T15:00:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2023-11-06T11:00:00Z"
+    },
+    {
+      "content": {
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 80,
+          "text": "QQ频道"
+        },
+        "icon": {
+          "icon_url": "https://comet.tx-hk2.mcfuns.cn/tencent-qq.png"
+        },
+        "image_url": "https://helsinki-test.s3.eu-west-1.amazonaws.com/box-1/box_discord_edge.jpg",
+        "link": "https://pd.qq.com/s/7xhhlskg7?b=9",
+        "priority": 2,
+        "slot": 0,
+        "sub_heading": {
+          "font_size": 56
+        },
+        "type": 1
+      },
+      "elementId": 35,
+      "endDate": "2027-12-31T15:00:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2023-12-11T12:00:00Z"
+    },
+    {
+      "content": {
+        "ad_context": 2,
+        "ad_frequency": 8,
+        "ad_limit": 2,
+        "banner_text": {
+          "font_size": 56,
+          "text": ""
+        },
+        "heading": {
+          "font_size": 64,
+          "text": "Comet - 社区需要你！\n点击加入"
+        },
+        "icon": {
+          "icon_url": ""
+        },
+        "image_url": "https://comet.tx-hk2.mcfuns.cn/image1.jpg",
+        "link": "https://pd.qq.com/s/7xhhlskg7?b=9",
+        "priority": 1,
+        "sub_heading": {
+          "font_size": 40,
+          "text": "匹配慢？那是人太少！向朋友分享Comet以加快匹配速度"
+        },
+        "type": 2
+      },
+      "elementId": 400,
+      "endDate": "2027-03-10T22:59:00Z",
+      "isPublished": true,
+      "isTargeted": false,
+      "startDate": "2023-03-05T11:01:00Z"
+    }
+  ],
+  "message": "OK",
+  "status_code": 200,
+  "targeted": []
+}

@@ -1,0 +1,38 @@
+{
+  "claim_rewards": {
+    "dust": 1000,
+    "items": [
+      {
+        "data": {
+          "dust": 0,
+          "isGold": true,
+          "itemType": "card",
+          "name": "card_wildcard_standard"
+        },
+        "qty": 4
+      },
+      {
+        "data": {
+          "itemType": "gold"
+        },
+        "qty": 777
+      }
+    ]
+  },
+  "pack_rules": {
+    "0": {
+      "card_count": 5,
+      "gold_probability": 0.1
+    },
+    "1": {
+      "card_count": 7,
+      "gold_probability": 0.1
+    }
+  },
+  "card_defaults": {
+    "dust": 0,
+    "recycled": false
+  },
+  "new_card_probability": 0.5,
+  "total_dust": 0
+}

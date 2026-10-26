@@ -1,0 +1,565 @@
+{
+    "8_day_rewards": {},
+    "achievements_url": "",
+    "all_knockout_tourneys": [],
+    "britain_level": 500,
+    "britain_level_claimed": 500,
+    "britain_xp": 0,
+    "cards_blacklist": [],
+    "claimable_crate_level": 0,
+    "client_id": 0,
+    "currency": "USD",
+    "current_knockout_tourney": {},
+    "current_mini_sit_n_go": {
+        "end_date": "2026-06-21T18:00:00.000000Z",
+        "hasWon": false,
+        "id": 254953,
+        "name": "Skirmish #61",
+        "rules_json_str": {
+            "starting_kredits": 12,
+            "hq_starting_defense": 60,
+            "allow_more_ally_cards": true,
+            "allow_reserved": true,
+            "blacklist": [],
+            "localization": {
+                "DE": {
+                    "rules_list": [
+                        "  Kämpfe mit dem vom Server bereitgestellten festen Deck.",
+                        "  Erhalte zu Beginn 12 zusätzliche Kredit-Slots.",
+                        "  Die anfängliche Hauptquartierverteidigung beträgt 60."
+                    ],
+                    "description": "  "
+                },
+                "EN": {
+                    "rules_list": [
+                        "  Use the fixed deck provided by the server to battle.",
+                        "  Gain 12 additional Kredit slots at the start.",
+                        "  Your HQ starts with 60 defense."
+                    ],
+                    "description": "  "
+                },
+                "ES": {
+                    "rules_list": [
+                        "  Lucha usando el mazo fijo proporcionado por el servidor.",
+                        "  Obtén 12 espacios de Kredit adicionales al comienzo.",
+                        "  Tu cuartel general comienza con 60 de defensa."
+                    ],
+                    "description": "  "
+                },
+                "FR": {
+                    "rules_list": [
+                        "  Combattez avec le deck fixe fourni par le serveur.",
+                        "  Gagnez 12 emplacements de Kredit supplémentaires au début.",
+                        "  Votre QG commence avec 60 points de défense."
+                    ],
+                    "description": "  "
+                },
+                "IT": {
+                    "rules_list": [
+                        "  Combatti usando il mazzo fisso fornito dal server.",
+                        "  Ottieni 12 slot Kredit aggiuntivi all'inizio.",
+                        "  Il tuo quartier generale inizia con 60 punti difesa."
+                    ],
+                    "description": "  "
+                },
+                "JA": {
+                    "rules_list": [
+                        "  サーバーが提供する固定デッキで戦おう。",
+                        "  開始時にクレディットスロットを12つ追加で獲得します。",
+                        "  本部の初期防御力は60です。"
+                    ],
+                    "description": "  "
+                },
+                "KO": {
+                    "rules_list": [
+                        "  서버가 제공한 고정 덱으로 전투하십시오.",
+                        "  시작 시 크레디트 슬롯 12개를 추가로 얻습니다.",
+                        "  본부의 초기 방어력은 60입니다."
+                    ],
+                    "description": "  "
+                },
+                "PL": {
+                    "rules_list": [
+                        "  Walcz, używając stałej talii udostępnionej przez serwer.",
+                        "  Na początku otrzymujesz 12 dodatkowe miejsca Kredytów.",
+                        "  Twoja kwatera główna zaczyna z 60 punktami obrony."
+                    ],
+                    "description": "  "
+                },
+                "PT": {
+                    "rules_list": [
+                        "  Lute usando o baralho fixo fornecido pelo servidor.",
+                        "  Ganhe 12 espaços de Kredit adicionais no início.",
+                        "  Seu QG começa com 60 de defesa."
+                    ],
+                    "description": "  "
+                },
+                "RU": {
+                    "rules_list": [
+                        "  Сражайтесь с фиксированной колодой, предоставленной сервером.",
+                        "  В начале получите 12 дополнительных слота кредитов.",
+                        "  Начальная защита штаба равна 60."
+                    ],
+                    "description": "  "
+                },
+                "ZH-HANS": {
+                    "rules_list": [
+                        "  玩家使用服务器提供的固定卡组进行战斗。",
+                        "  开局额外获得12个指挥槽。",
+                        "  初始总部防御力为60点。"
+                    ],
+                    "description": "  "
+                },
+                "ZH-HANT": {
+                    "rules_list": [
+                        "  玩家使用伺服器提供的固定卡組進行戰鬥。",
+                        "  開局額外獲得12個指揮槽。",
+                        "  初始總部防禦力為60點。"
+                    ],
+                    "description": "  "
+                }
+            }
+        },
+        "start_date": "2026-06-12T12:00:00.000000Z"
+    },
+    "dailymissions_url": "",
+    "decks": {
+        "headers": []
+    },
+    "decks_url": "",
+    "diamonds": 40,
+    "double_xp_end_date": "2025-07-03T12:13:36.889692Z",
+    "draft_admissions": 0,
+    "dust": 1000,
+    "email": null,
+    "email_reward_received": false,
+    "email_verified": false,
+    "germany_level": 500,
+    "germany_level_claimed": 500,
+    "germany_xp": 0,
+    "gold": 7777777,
+    "has_been_officer": true,
+    "heartbeat_url": "",
+    "is_officer": true,
+    "is_online": true,
+    "japan_level": 500,
+    "japan_level_claimed": 500,
+    "japan_xp": 0,
+    "login_rewards_type": 2,
+    "jti": "114514",
+    "jwt": "",
+    "last_crate_claimed_date": "2025-07-02T11:24:15.567042Z",
+    "last_daily_mission_cancel": null,
+    "last_daily_mission_renewal": "2025-07-05T15:21:43.653915Z",
+    "last_logon_date": "2026-06-14T03:48:42.591Z",
+    "launch_messages": [],
+    "library_url": "",
+    "linker_account": "",
+    "locale": "zh-hans",
+    "misc": {
+        "createDate": "2026-06-14T03:48:42.591Z",
+        "featuredAchievements": [],
+        "mktOptOut": false
+    },
+    "new_cards": [],
+    "new_player_login_reward": {
+        "day": 8,
+        "reset": "0001-01-01 00:00:00",
+        "seconds": 0
+    },
+    "npc": false,
+    "online_flag": true,
+    "packs_url": "",
+    "player_id": 0,
+    "player_name": "",
+    "player_tag": 0,
+    "rewards": [],
+    "season_end": "2025-08-01T00:00:00Z",
+    "season_id": 89,
+    "season_wins": 9999,
+    "server_options": {
+        "christmas_music": 0,
+        "nui_mobile": 1,
+        "appscale_tablet_default": 1.1,
+        "broken_deck_check": 1,
+        "beta_expiry_date": "2023-10-01 00:00:00",
+        "invite_friends_button": 1,
+        "appscale_desktop_min": 1,
+        "discount_products": "11:66;12:20;96:48;202:16;203:21;204:25;221:4;222:8;223:11;224:16;225:20;250:15;251:25;267:18;253:50;258:33;265:45;256:40;266:43;254:50;255:43;264:30;257:33;278:43;279:45;263:30;280:50;281:43;283:21;288:30;296:30;297:50;298:43;299:25;304:75;307:19;308:24;309:33;313:15;314:28;316:24;317:26;322:33;324:19;318:12;319:18;321:12;320:18",
+        "forgot_password_url": "https://www.kards.com/auth/recovery?lang={lang}",
+        "feature_copy_battleready_decks_enabled": 1,
+        "disable_custom_wrapping": 1,
+        "brothers_in_arms_is_here_gift_urls": {
+            "de-de": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_de.jpg",
+            "en-en": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_en.jpg",
+            "es-es": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_es.jpg",
+            "fr-fr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_fr.jpg",
+            "it-it": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_it.jpg",
+            "ko-kr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_kr.jpg",
+            "pl-pl": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pl.jpg",
+            "pt-br": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pt.jpg",
+            "ru-ru": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_ru.jpg",
+            "zh-hans": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_sch.jpg",
+            "zh-hant": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_tch.jpg"
+        },
+        "shop_2023": 1,
+        "account_linking_show_in_settings": 1,
+        "scalability_override": {
+            "Android_Low": {
+                "console_commands": [
+                    "r.Screenpercentage 100"
+                ]
+            },
+            "Android_Mid": {
+                "console_commands": [
+                    "r.Screenpercentage 100"
+                ]
+            },
+            "Android_High": {
+                "console_commands": [
+                    "r.Screenpercentage 100"
+                ]
+            }
+        },
+        "appscale_desktop_default": 1,
+        "appscale_desktop_max": 1.4,
+        "appscale_mobile_default": 1.4,
+        "appscale_mobile_max": 1.4,
+        "appscale_mobile_min": 1,
+        "appscale_tablet_min": 1,
+        "battle_wait_time": 60,
+        "brothers_in_arms_date": "2023.06.18-09.30.00",
+        "diamonds": 1,
+        "disable_review_window": 0,
+        "enable_chat": 1,
+        "new_medkits": 1,
+        "tow_show": 1,
+        "covert_ops_date": "2024.06.11-11.00.00",
+        "mobile_showcase_delay": 0.2,
+        "vertical_shop": 1,
+        "stop_giving_ai_battles_after_rank": 17,
+        "android_share_link": "https://kards.onelink.me/snSY/pxa0z9v0",
+        "new_premade_decks": 1,
+        "reduce_reward_animation_fps": 1,
+        "mobile_local_notifications": 1,
+        "get_recent_opponents": 1,
+        "surrender_disabled_at_start": 0,
+        "crate_hour": 10,
+        "use_manual_redraw": 1,
+        "eula_version": 1,
+        "android_apk_noiap_link_enabled": 1,
+        "korean_stove_only": 0,
+        "naval_warfare_date": "2025.05.22-12.00.00",
+        "feature_vfx_preloading_enabled": 1,
+        "first_purchase_bonus_date": "2025.07.24-11.10.00",
+        "apk_4399_noiap_provider_url": "https://kards-hk-cftn.kardsplayer.com/",
+        "reconnect": 1,
+        "response_zero_max_retries": 10,
+        "review_lost": 1,
+        "review_url_de": "https://forms.gle/D3hhAk8Tuu5mHF2M6",
+        "review_url_en": "https://forms.gle/75nzdjwret1kXA2S6",
+        "review_url_fr": "https://forms.gle/FdemapkcpRPn6oBCA",
+        "review_url_pl": "https://forms.gle/qWoQw4MM9wrAwRkS9",
+        "review_url_pt": "https://forms.gle/jL7qc5hfA7yV3n2u8",
+        "review_url_ru": "https://forms.gle/o5kbvZwZ5yfkN4v19",
+        "review_url_zh": "https://wj.qq.com/s2/10069780/f345",
+        "review_wins": 6,
+        "wc_button": 0,
+        "wc_steam_url": "https://store.steampowered.com/news/app/544810/view/3288212769337733948",
+        "logger_disabled": 0,
+        "websocketurl": "",
+        "front_page_data": {},
+        "new_rewards": 1,
+        "most_popular_products": "304;238;318;319;320;321;322;324;11;270;1;52;45;18;56;72;7;149;70;143;9;53;57;75;151;228;153;79",
+        "nui_desktop": 0,
+        "ios_share_link": "https://kards.onelink.me/snSY/pxa0z9v0",
+        "wc_cutoff": 57,
+        "tournament_id": 11,
+        "winter_war_is_here_gift_urls": {
+            "de-de": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_de.jpg",
+            "en-en": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_en.jpg",
+            "es-es": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_es.jpg",
+            "fr-fr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_fr.jpg",
+            "it-it": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_it.jpg",
+            "ko-kr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_kr.jpg",
+            "pl-pl": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pl.jpg",
+            "pt-br": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_pt.jpg",
+            "ru-ru": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/es_ru.jpg",
+            "zh-hans": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_sch.jpg",
+            "zh-hant": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/es_tch.jpg"
+        },
+        "apk_mohe_provider_url": " https://res-apkrds.kards.com.cn/download/mohe/kards.apk",
+        "content_restructure_store": 1,
+        "more_filters": 1,
+        "enable_japanese": 1,
+        "winter_war_date": "2023.11.29-09.00.00",
+        "reserved_system_compensation_urls": {
+            "de-de": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_de.jpg",
+            "en-en": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_en.jpg",
+            "es-es": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_es.jpg",
+            "fr-fr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_fr.jpg",
+            "it-it": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_it.jpg",
+            "ko-kr": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_kr.jpg",
+            "pl-pl": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_pl.jpg",
+            "pt-br": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_pt.jpg",
+            "ru-ru": "https://s3.eu-west-1.amazonaws.com/files.1939api.com/client/2023/re_ru.jpg",
+            "zh-hans": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/re_sch.jpg",
+            "zh-hant": "https://s3.ap-east-1.amazonaws.com/files2.1939api.com/client/2023/re_tch.jpg"
+        },
+        "finland": 1,
+        "new_effect_bar_pc": 1,
+        "appscale_tablet_max": 1.1,
+        "buddy_program_invite_link": "https://kards.onelink.me/snSY/90fbwrt6",
+        "use_oc_redis_set": 1,
+        "crate_weekday": 2,
+        "webshop_debug": 0,
+        "skip_unlocking": 1,
+        "use_tutorial_handpointer": 1,
+        "new_effect_icons": 1,
+        "salvage_enabled": 1,
+        "avatars": 1,
+        "skip_sending_subactions": 1,
+        "idel_disconnect_minutes": 51,
+        "apk_qiyou_provider_url": "https://res-apkrds.kards.com.cn/download/cbd/kards.apk",
+        "christmas_snow": 0,
+        "windows_share_link": "https://kards.onelink.me/snSY/pxa0z9v0",
+        "wc_qualifiers_1": "才囚往人desu;Sean;ChaoticPo1soN;Takao;winnerwillwin;至死方休;小循环高手;变成光守护兰音公主;天行健;水下玩家;tonydu;sailing;guest;孤独的时间旅客;抽象的xx;Langweiling;Head;(°w°);RED SUN;Egoroff;Intradiction;Bezio;坦闪个垃圾游戏;Darjeeling;petriachor;Vinny;共產主義的幽靈;Echidna;killswitch;haoduoyinliugou;Twi Dcargo;Withsword;不是空心神;newyen2ㄗ;OKW;且战且退的巴甫洛夫;Counting Stars;MłynekDoKawy;禁忌之门;QAQ我的世界大橘子;鹰扬将军;citrus;DannysDirection;iLdrim;carp;Stanislav;格拉斯哥求学者;[CN]lgyouch;salmon26;Terror_de;guorq123456;ogogon;AmI;PN Jansen;逍遥xy;打斐济;鬼子大酱",
+        "disable_simulation": 1,
+        "solsten_urls": {
+            "chinese": "https://surveys.solsten.io/s3/1939-Games-KARDS-Chinese-Language-2024-09-02",
+            "english": "https://surveys.solsten.io/s3/1939-Games-KARDS-2024-09-02"
+        },
+        "solsten_survey_enabled": 0,
+        "presale_packs": [
+            {
+                "title": {
+                    "de-DE": "Covert Ops",
+                    "en-EN": "Covert Ops"
+                },
+                "card_set": "CovertOps",
+                "unlock_date": "2024.05.30-09.15.00"
+            },
+            {
+                "title": {
+                    "en-EN": "Naval Warfare"
+                },
+                "card_set": "NavalWarfare",
+                "unlock_date": "2025.06.18-09.30.00"
+            }
+        ],
+        "disable_tournament": 0,
+        "christmas": 0,
+        "current_extended_8_day_offer": {
+            "offer_ids": "6789236;6789236",
+            "ad_img_path": "https://d3t4xohaeg8xj9.cloudfront.net/kards/store/offer/extended_8days"
+        },
+        "disable_right_click_in_battle": 1,
+        "leaderboard_visuals": {
+            "occ_play_ins_rank": 8,
+            "occ_qualified_rank": 8
+        },
+        "apk_tiandi_provider_url": "https://res-apkrds.kards.com.cn/download/tiandi/kards.apk",
+        "apk_1939_provider_url": "https://res-apkrds.kards.com.cn/download/cbd/kards.apk",
+        "maintenance_mode_check_on_enter_foreground": 0,
+        "android_apk_noiap_link": "https://kards-hk-information.kardsplayer.com/",
+        "feature_epic_iap_enabled": 1,
+        "new_xpbar": 1,
+        "apk_jiuyou_provider_url": "https://kards-hk-cjy.kardsplayer.com/",
+        "apk_4399_provider_url": "https://kards-hk-cftn.kardsplayer.com/",
+        "webshop_epic": 1,
+        "halloween": 0,
+        "battle_pass_subscription": 1,
+        "feature_compact_action_values_only_enabled": 0,
+        "key_encryption": 182489,
+        "do_action_mingling": 1,
+        "achievements": 1,
+        "shop_full_image": 1,
+        "skip_draw_delay": 1,
+        "enemy_profile": 1,
+        "always_query_transactions": 1,
+        "apk_haoyou_noiap_provider_url": "https://kards-hk-information.kardsplayer.com/",
+        "apk_233_provider_url": "https://res-apkrds.kards.com.cn/download/cbd/kards.apk",
+        "apk_jiuyou_noiap_provider_url": "https://kards-hk-cjy.kardsplayer.com/",
+        "apk_wfgame_provider_url": "https://res-apkrds.kards.com.cn/download/wfgame/kards.apk",
+        "locked_cards": [
+            {
+                "cards": [
+                    "card_unit_whirlwind",
+                    "card_event_pound",
+                    "card_unit_tiger_moth",
+                    "card_event_harass",
+                    "card_unit_salamander",
+                    "card_unit_henschel_he_129",
+                    "card_unit_ilyushin_10",
+                    "card_unit_p_39_airacobra",
+                    "card_event_out_with_the_old",
+                    "card_unit_tigercat",
+                    "card_unit_seahawk",
+                    "card_event_screening_force",
+                    "card_unit_n1k1_kyofu",
+                    "card_event_flight_to_oblivion",
+                    "card_unit_kyushu_j7w3",
+                    "card_event_sally",
+                    "card_event_air_strips",
+                    "card_event_pilot_escape",
+                    "card_unit_fokker_finland"
+                ],
+                "unlock_date": "2025-09-23T12:10:00"
+            }
+        ],
+        "webshop_url": "https://www.kards.com/shop/",
+        "halloween_music": 0,
+        "account_linking_url": "https://www.kards.com/{lang}/client/account_linking?utm_source=KARDS_Account_linking&utm_medium=Account_linking_guide&utm_campaign=Account_linking_guide_eng&utm_term=58&utm_content=Account_linking_guide_eng&campaign=59",
+        "feature_socketerror_popup_enabled": 1,
+        "feature_collection_cardhelpcache": 0,
+        "feature_marketing_checkbox": 1,
+        "monitor_battle": 0,
+        "versions": [
+            "Kards 1.53"
+        ],
+        "oceania_storm_date": "2026.06.11-08.00.00",
+        "validate_turn_switches": 1,
+        "apk_haoyou_provider_url": "https://kards-hk-information.kardsplayer.com/",
+        "is_create_callsign_after_tutorial": 1,
+        "enable_bond_highlight": 0,
+        "homefront_date": "2025.11.27-09.00.00",
+        "returning_player_rewards": [
+            {
+                "qty": 100,
+                "item_name": "gold"
+            },
+            {
+                "qty": 2,
+                "officer": false,
+                "expansion": "Core",
+                "item_name": "pack"
+            },
+            {
+                "qty": 1,
+                "officer": true,
+                "expansion": "Core",
+                "item_name": "pack"
+            },
+            {
+                "qty": 1,
+                "item_name": "draft_ticket"
+            },
+            {
+                "qty": 3,
+                "card_name": "card_wildcard_limited",
+                "item_name": "card"
+            },
+            {
+                "qty": 1,
+                "days": 3,
+                "item_name": "medkit"
+            },
+            {
+                "qty": 2,
+                "card_name": "card_wildcard_special",
+                "item_name": "card"
+            },
+            {
+                "qty": 1,
+                "officer": true,
+                "expansion": "Core",
+                "item_name": "pack"
+            }
+        ],
+        "extended_8_day_rewards": [
+            {
+                "rewards": [
+                    {
+                        "qty": 2,
+                        "officer": true,
+                        "expansion": "Core",
+                        "item_name": "pack"
+                    },
+                    {
+                        "qty": 1,
+                        "days": 1,
+                        "item_name": "medkit"
+                    },
+                    {
+                        "qty": 2,
+                        "card_name": "card_wildcard_special",
+                        "item_name": "card"
+                    },
+                    {
+                        "qty": 1,
+                        "gold": true,
+                        "rarity": "Rare",
+                        "item_name": "random_card"
+                    },
+                    {
+                        "qty": 1,
+                        "item_name": "avatar",
+                        "avatar_name": "avatar_commander"
+                    },
+                    {
+                        "qty": 3,
+                        "officer": false,
+                        "expansion": "core",
+                        "item_name": "pack"
+                    },
+                    {
+                        "item_name": "cardback_option",
+                        "cardback_usa": "cardback_blue_and_grey",
+                        "cardback_germany": "cardback_11_infantry"
+                    },
+                    {
+                        "qty": 1,
+                        "card_usa": "card_unit_101st_airborne",
+                        "item_name": "day8",
+                        "card_germany": "card_event_bismarck"
+                    }
+                ],
+                "offer_id": 6789236
+            }
+        ],
+        "give_guest_name": 0,
+        "feature_virtual_keyboard": 0,
+        "reserve_changes": [
+            {
+                "due_date": "2026-06-11T10:00:00",
+                "coming_back": [],
+                "to_be_reserved": []
+            }
+        ],
+        "anzac": 1,
+        "draft_card_limits": {
+            "blacklist": [],
+            "whitelist": []
+        },
+        "resync_without_restart": 1
+    },
+    "server_time": "2026.06.14-03.48.42",
+    "soviet_level": 500,
+    "soviet_level_claimed": 500,
+    "soviet_xp": 0,
+    "stars": 120,
+    "tutorials_done": 0,
+    "tutorials_finished": [
+        "unlocking_germany_1",
+        "unlocking_germany_2",
+        "unlocking_germany_0",
+        "germany_cards_rewarded",
+        "unlocking_usa_8",
+        "recruit_missions_done",
+        "draft_1",
+        "draft_ally",
+        "draft_kredits",
+        "unlocking_japan_0",
+        "japan_cards_rewarded",
+        "unlocking_soviet_0",
+        "soviet_cards_rewarded",
+        "unlocking_usa_0",
+        "usa_cards_rewarded",
+        "unlocking_britain_0",
+        "britain_cards_rewarded"
+    ],
+    "usa_level": 500,
+    "usa_level_claimed": 500,
+    "usa_xp": 0,
+    "user_id": 0
+}

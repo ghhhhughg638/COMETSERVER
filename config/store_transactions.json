@@ -1,0 +1,531 @@
+{
+  "6809547": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Homefront",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 30
+          }
+        ]
+      }
+    ],
+    "status": 200
+  },
+  "6801827": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Core",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 2
+          },
+          {
+            "data": {
+              "cardCount": 5,
+              "cardSet": "Core",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 15
+          },
+          {
+            "data": {
+              "duration": 1,
+              "itemType": "medkit"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "duration": 1,
+              "itemType": "medkit"
+            },
+            "qty": 1
+          }
+        ]
+      }
+    ],
+    "status": 200
+  },
+  "6802497": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Britain",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Germany",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "USA",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Allies",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          }
+        ]
+      }
+    ],
+    "status": 200
+  },
+  "6778815": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Germany",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 7
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "USA",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 7
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Britain",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 7
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Allies",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 4
+          },
+          {
+            "data": {
+              "duration": 1,
+              "itemType": "medkit"
+            },
+            "qty": 3
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "6778823": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Germany",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 3
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Britain",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 3
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "USA",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 3
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Active",
+              "faction": "Allies",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "duration": 1,
+              "itemType": "medkit"
+            },
+            "qty": 1
+          }
+        ]
+      }
+    ],
+    "status": 200
+  },
+  "6794770": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "bp",
+              "month": 1,
+              "year": 2026
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "itemType": "prop",
+              "name": "item_Japanese_tea_set"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "itemType": "cardback",
+              "name": "cardback_9th_airforce"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "itemType": "emote",
+              "name": "emote_forward_comrades"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "itemType": "alt_art",
+              "name": "alt_1_card_unit_tiger_i"
+            },
+            "qty": 1
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "6775106": {
+    "message": "OK",
+    "newDiamonds": null,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "duration": 3,
+              "itemType": "medkit"
+            },
+            "qty": 1
+          },
+          {
+            "data": {
+              "cardCount": 5,
+              "cardSet": "Core",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 2
+          },
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "Core",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 3
+          },
+          {
+            "data": {
+              "isGold": false,
+              "itemType": "card",
+              "name": "card_wildcard_standard"
+            },
+            "qty": 4
+          },
+          {
+            "data": {
+              "isGold": false,
+              "itemType": "card",
+              "name": "card_wildcard_special"
+            },
+            "qty": 2
+          },
+          {
+            "data": {
+              "isGold": false,
+              "itemType": "card",
+              "name": "card_wildcard_limited"
+            },
+            "qty": 3
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16566": {
+    "message": "OK",
+    "newDiamonds": 10,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 48
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16928": {
+    "message": "OK",
+    "newDiamonds": 30,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 100
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16929": {
+    "message": "OK",
+    "newDiamonds": 75,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 210
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16930": {
+    "message": "OK",
+    "newDiamonds": 155,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 380
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16931": {
+    "message": "OK",
+    "newDiamonds": 260,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 570
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "16932": {
+    "message": "OK",
+    "newDiamonds": 600,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "itemType": "diamonds"
+            },
+            "qty": 999999
+          }
+        ],
+        "status": 200
+      }
+    ]
+  },
+  "6809542": {
+    "message": "OK",
+    "newDiamonds": 600,
+    "newGold": null,
+    "purchasedCount": 1,
+    "receiptId": 1760000000000,
+    "receipts": [
+      {
+        "offerName": "offer_1_core_pack",
+        "receiptId": 1760000000000,
+        "items": [
+          {
+            "data": {
+              "cardCount": 7,
+              "cardSet": "OceaniaStorm",
+              "guaranteedGoldCards": 0,
+              "itemType": "pack"
+            },
+            "qty": 7
+          }
+        ],
+        "status": 200
+      }
+    ]
+  }
+}
