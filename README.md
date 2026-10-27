@@ -1,6 +1,6 @@
 # Comet Server
 
-Comet Server 的 Windows x64 二进制发行版，附带中文管理后台。公开发行仓库只提供编译后的服务端程序、配置和网页，不包含项目源码。
+Comet Server 的 Windows x64 与 Linux x86_64 二进制发行版，附带中文管理后台。公开发行仓库只提供编译后的服务端程序、配置和网页，不包含项目源码。
 
 ## 下载
 
@@ -10,11 +10,16 @@ Comet Server 的 Windows x64 二进制发行版，附带中文管理后台。公
 
 | 内容 | 说明 |
 | --- | --- |
-| `CometServer.exe` | 服务端程序（单文件，已编译） |
+| `CometServer.exe` | Windows 服务端程序（单文件，已编译） |
+| `CometServer-linux-x86_64` | Linux 服务端程序（单文件，已编译），见 [使用说明-Linux.md](使用说明-Linux.md) |
 | `config/` | 卡牌资料、规则、模板等外置配置，修改后可在后台一键热重载 |
 | `admin_ui/` | 管理后台网页和图片 |
 | `config.example.yaml` | 首次运行时用来生成 `config.yaml` 的模板 |
 | `CONFIGURATION.md` | 配置文件字段说明 |
+
+## Linux 版
+
+Linux x86_64 版本是 `CometServer-linux-x86_64`，需要 glibc 2.38 或更新（Ubuntu 24.04+、Debian 13+、Fedora 39+）。与 Windows 版共用 `config/` 和 `admin_ui/`。完整步骤、权限设置和 systemd 示例见 [使用说明-Linux.md](使用说明-Linux.md)。
 
 ## 首次启动
 

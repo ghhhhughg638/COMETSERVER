@@ -35,3 +35,8 @@ This inventory covers the application's declared runtime requirements and the ma
 ## 游戏素材
 
 后台中的卡牌图片、头像与角色图片及卡牌资料来自游戏或用户提供的素材，相关权利归各自的权利人所有。本发行仓库不对这些素材授予任何许可，使用者应自行确认再分发是否合规。
+
+## Linux 版
+
+Linux 版使用 Ubuntu 24.04 提供的 Python 3.12.3（Python Software Foundation License 2.0）和 Nuitka 4.3.1 编译，其余 Python 依赖与上表相同。程序动态链接系统的 GNU C 库（glibc，LGPL-2.1+），不随程序分发。
+
