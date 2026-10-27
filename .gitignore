@@ -1,0 +1,10 @@
+# Local configuration contains signing secrets.
+/config.yaml
+
+# Runtime database, including SQLite WAL and shared-memory files.
+/data/
+
+# Server logs and administrator audit records.
+/app.log
+/app.log.*
+/logs/
