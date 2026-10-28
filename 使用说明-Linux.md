@@ -2,7 +2,7 @@
 
 程序文件：`CometServer-linux-x86_64`。在 Ubuntu 24.04 上用 Nuitka 编译，**需要 glibc 2.38 或更新**：Ubuntu 24.04+、Debian 13+、Fedora 39+ 等可以运行；Ubuntu 22.04、Debian 12 及更老的系统不能运行这个版本。
 
-SHA256：`7f3bdaecaec04b9adf149ba9442962803858cfc3ab65492992d1adb0e301b82c`
+SHA256：`19a91e53de76e4a273de47094e2c6ceb279170792af596c521c96ff64e8ef9c6`
 
 ## 目录
 

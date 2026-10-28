@@ -4,6 +4,7 @@
 
 - 新增 Linux x86_64 版本 `CometServer-linux-x86_64`（Ubuntu 24.04 编译，需要 glibc 2.38 或更新），与 Windows 版共用 `config/` 和 `admin_ui/`。
 - 程序目录改为取自可执行文件所在位置，不再受启动时的工作目录或启动名称影响。
+- Windows 版和 Linux 版都用同一份修复后的源码重新编译：单文件程序使用启动器提供的可执行文件所在目录，从任意目录、用名称启动都能找到 `config/` 和 `admin_ui/`。
 
 ## 2026-10-27
 
